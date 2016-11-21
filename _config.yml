@@ -1,0 +1,2 @@
+name: Lindsay! # tell jekyll the name of your site
+markdown: kramdown # what version of Markdown we'd like to use
